@@ -1,3 +1,5 @@
+package 哈希;
+
 import java.util.*;
 
 public class groupAnagrams {
