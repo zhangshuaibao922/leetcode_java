@@ -6,6 +6,7 @@ public class isPalindrome {
 
     }
     public boolean isPalindrome(ListNode head) {
+
         return false;
     }
 }
